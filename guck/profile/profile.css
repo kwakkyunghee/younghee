@@ -1,0 +1,17 @@
+.tab{/*tab (intro, project, contect)*/
+
+    float: right; /*오른쪽 정렬*/
+
+}
+/*menu (profile, intro, project, contect)*/
+
+.menu{
+    background-color: #F0F0F0;
+}
+
+.menu a{ 
+
+    text-decoration-line: none; /*밑줄 없애기*/
+    color: black; /* 글자 색 검정색으로 바꿈*/
+
+}

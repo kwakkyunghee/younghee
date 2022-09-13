@@ -1,17 +1,22 @@
 .tab{/*tab (intro, project, contect)*/
 
     float: right; /*오른쪽 정렬*/
-
+    margin-top: 10px;
 }
 /*menu (profile, intro, project, contect)*/
 
+
 .menu{
     background-color: #F0F0F0;
+    margin-top: -17px;
+    margin-left: -5px;
+    margin-right: -5px;
+    height: 40px;
 }
 
-.menu a{ 
 
+
+.menu a{ 
     text-decoration-line: none; /*밑줄 없애기*/
     color: black; /* 글자 색 검정색으로 바꿈*/
-
 }

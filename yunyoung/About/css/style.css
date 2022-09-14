@@ -14,10 +14,6 @@
     --nav-color : black;
 }
 
-* {
-    /* outline:  solid 1px green; */
-}
-
 body {
     margin: 0;
     padding: 0;
@@ -167,3 +163,9 @@ color:var(--font-color)
   box-shadow:inset -.15em -.15em #ffe096;
   background-image:radial-gradient(circle at 60% 10%,#e6cea5 15%,transparent 0),radial-gradient(circle at 30% 50%,#e6cea5 10%,transparent 0),radial-gradient(circle at 60% 70%,#e6cea5 13%,transparent 0);
   transition:transform .2s ease-in-out,background .3s,border-color .3s}
+
+.profile {
+    width: 30%;
+    height: 20%;
+    stroke: #035A37;
+}

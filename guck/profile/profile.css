@@ -2,6 +2,7 @@
 
     float: right; /*오른쪽 정렬*/
     margin-top: -38px; /*위에 여백*/
+    margin-right: 40px;
 }
 /*fp_tab (profile)*/
 .fp_tab{
@@ -20,8 +21,6 @@
 #header{
     
 }
-
-
 
 .menu a{ 
     text-decoration-line: none; /*밑줄 없애기*/

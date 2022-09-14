@@ -1,17 +1,24 @@
 .tab{/*tab (intro, project, contect)*/
 
     float: right; /*오른쪽 정렬*/
-    margin-top: 10px;
+    margin-top: -38px; /*위에 여백*/
+}
+/*fp_tab (profile)*/
+.fp_tab{
+    padding-top: 8px; /*위에 여백*/
 }
 /*menu (profile, intro, project, contect)*/
-
-
 .menu{
-    background-color: #F0F0F0;
-    margin-top: -17px;
+   
+    margin: -16px 100px; /*배경 여백*/
     margin-left: -5px;
     margin-right: -5px;
-    height: 40px;
+    height: 40px; /*배경 사이즈*/
+    background-color: #F0F0F0; /*배경 색깔*/
+    
+}
+#header{
+    
 }
 
 

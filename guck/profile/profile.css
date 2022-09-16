@@ -29,3 +29,7 @@
     text-decoration-line: none; /*밑줄 없애기*/
     color: black; /* 글자 색 검정색으로 바꿈*/
 }
+
+body{
+    background-color: #B8B2BC;
+}

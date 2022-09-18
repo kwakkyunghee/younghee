@@ -30,6 +30,10 @@
     color: black; /* 글자 색 검정색으로 바꿈*/
 }
 
-body{
+body{ /*배경색*/
     background-color: #B8B2BC;
+}
+
+#name{
+    color: #4A4458;
 }

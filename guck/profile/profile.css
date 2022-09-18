@@ -34,6 +34,10 @@ body{ /*배경색*/
     background-color: #B8B2BC;
 }
 
-#name{
+#name{  /*이름*/
     color: #4A4458;
+}
+
+#bs{    /*생년월일, 학교*/
+    margin-top: -15px;
 }

@@ -46,3 +46,15 @@ body{ /*배경색*/
 #bs{    /*생년월일, 학교*/
     margin-top: -15px;
 }
+
+#tistory{
+    text-decoration-line: none;
+    color: black;
+    font-weight: bold;
+}
+
+#gihub{
+    text-decoration-line: none;
+    color: black;
+    font-weight: bold;
+}

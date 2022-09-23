@@ -34,7 +34,17 @@ body{ /*배경색*/
     background-color: #B8B2BC;
 }
 
-.pf_nbs{
+.main{
+    margin-top: 80px;
+    margin-left: 35px;
+}
+
+#img{
+    
+}
+
+.pf_nbs{    /*이름, 생년월일. 학교*/
+    
     margin-top: 130px;
     margin-left: 600px;
 }

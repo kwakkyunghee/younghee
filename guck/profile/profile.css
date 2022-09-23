@@ -45,8 +45,8 @@ body{ /*배경색*/
 
 .pf_nbs{    /*이름, 생년월일. 학교*/
     
-    margin-top: 130px;
-    margin-left: 600px;
+    margin-top: -350px;
+    margin-left: 450px;
 }
 
 #name{  /*이름*/
@@ -67,4 +67,8 @@ body{ /*배경색*/
     text-decoration-line: none;
     color: black;
     font-weight: bold;
+}
+
+.footer{
+    margin-top: 500px;
 }

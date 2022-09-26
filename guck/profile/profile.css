@@ -45,7 +45,7 @@ body{ /*배경색*/
 
 .pf_nbs{    /*이름, 생년월일. 학교*/
     
-    margin-top: -350px;
+    margin-top: -380px;
     margin-left: 450px;
 }
 
@@ -66,6 +66,10 @@ body{ /*배경색*/
 #gihub{
     text-decoration-line: none;
     color: black;
+    font-weight: bold;
+}
+
+#email{
     font-weight: bold;
 }
 

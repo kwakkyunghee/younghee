@@ -29,3 +29,51 @@
     text-decoration-line: none; /*밑줄 없애기*/
     color: black; /* 글자 색 검정색으로 바꿈*/
 }
+
+body{ /*배경색*/
+    background-color: #B8B2BC;
+}
+
+.main{
+    margin-top: 80px;
+    margin-left: 35px;
+}
+
+#img{
+    
+}
+
+.pf_nbs{    /*이름, 생년월일. 학교*/
+    
+    margin-top: -380px;
+    margin-left: 450px;
+}
+
+#name{  /*이름*/
+    color: #4A4458;
+}
+
+#bs{    /*생년월일, 학교*/
+    margin-top: -15px;
+}
+
+#tistory{
+    text-decoration-line: none;
+    color: black;
+    font-weight: bold;
+}
+
+#gihub{
+    text-decoration-line: none;
+    color: black;
+    font-weight: bold;
+}
+
+#email{
+    font-weight: bold;
+}
+
+.footer{
+    margin-top: 500px;
+    
+}
